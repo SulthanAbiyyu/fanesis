@@ -12,10 +12,13 @@ networkx = "^3.1"
 pyvis = "^0.3.2"
 facenet-pytorch = "^2.5.3"
 numpy = "^1.26.0"
-
+scipy = "^1.11.3"
 
 [tool.poetry.group.dev.dependencies]
+einops = "^0.7.0"
+ipykernel = "^6.25.2"
 jupyter = "^1.0.0"
+matplotlib = "^3.8.0"
 
 [build-system]
 requires = ["poetry-core"]
