@@ -1,3 +1,5 @@
 # Facial Network Analysis
 
 ![diagram](/img/diagram.png)
+
+Fanesis is a Facial Network Analysis tool that analyzes the faces and behaviors of individuals in a group and creates a visual representation of their relationships. Fanesis uses computer vision and machine learning techniques to detect the emotions and interactions of each individual. It then creates two types of associations: group-based and emotion-based. Group-based associations show how individuals are connected within the group, such as who knows whom, who is close to whom, and who is influential to whom. Emotion-based associations show how individuals feel about each other, such as who likes whom, who dislikes whom, and who is neutral to whom. Fanesis provides insights into the dynamics and characteristics of the group, which can be useful for various applications such as social network analysis, group psychology, and team building.
