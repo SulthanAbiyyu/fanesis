@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "fanesis"
 version = "0.1.0"
-description = ""
+description = "network analysis tool based on face recognition"
 authors = ["Sulthan Abiyyu"]
 readme = "README.md"
 
@@ -14,12 +14,12 @@ facenet-pytorch = "^2.5.3"
 numpy = "^1.26.0"
 scipy = "^1.11.3"
 deepface = "0.0.79"
+matplotlib = "^3.8.0"
 
 [tool.poetry.group.dev.dependencies]
 einops = "^0.7.0"
 ipykernel = "^6.25.2"
 jupyter = "^1.0.0"
-matplotlib = "^3.8.0"
 
 [build-system]
 requires = ["poetry-core"]
