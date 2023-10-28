@@ -12,6 +12,10 @@ Here is an example output from a very small dataset of images. We are presenting
 
 ## Installation
 
+```bash
+pip install fanesis
+```
+
 ## Usage
 
 Using the individual classes
