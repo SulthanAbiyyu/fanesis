@@ -6,6 +6,7 @@ __pycache__/
 
 # Dataset
 data
+output
 
 # C extensions
 *.so
